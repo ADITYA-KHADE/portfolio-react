@@ -1,0 +1,10 @@
+
+.project-1,.project-2{
+    background-color:rgb(109, 147, 109);
+    display: flex;
+    flex-direction: row;
+}
+
+.project-head,.project-main{
+    background-color: rgb(109, 147, 109);
+}

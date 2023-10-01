@@ -1,0 +1,40 @@
+.main {
+    background-color:rgb(63, 82, 120);
+    height: 100vh;
+    position: relative;
+    text-align: center;
+}
+
+.name{
+    align-items: center;
+    position: absolute;
+    top: 53vh;
+    left: 45vw;
+    font-size: 25px;
+    color: white;
+}
+
+.intro-f{
+    align-items: center;
+    position: absolute;
+    top: 68vh;
+    left: 39vw;
+    font-size: 35px;
+    color: white;
+}
+
+.intro-r{
+    align-items: center;
+    position: absolute;
+    top: 74vh;
+    left: 42vw;
+    color: white;
+    font-size: 33px;
+}
+
+.img-man{
+    position: absolute;
+    top: 30vh;           
+    left: 45vw; 
+    border-radius: 50%;   
+}
