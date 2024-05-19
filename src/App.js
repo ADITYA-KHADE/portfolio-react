@@ -7,7 +7,7 @@ import Footer from './components/Footer'
 // import { HashLink } from "react-router-hash-link";
 // import './App.css';
 import {Routes, Route } from 'react-router-dom';
-
+// deploy it
 
 function App() {
   return (
