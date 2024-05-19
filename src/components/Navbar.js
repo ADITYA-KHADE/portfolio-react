@@ -5,7 +5,7 @@ import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import '../style/navbar.css';
 // import { HashLink } from "react-router-hash-link";
 import {Link} from "react-router-dom"
-
+//sorry
 function Navbar() {
   const [scrollingDown, setScrollingDown] = useState(true);
   const [visible, setVisible] = useState(true);
